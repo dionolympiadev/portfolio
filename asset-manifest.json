@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/dionolympiadev.github.io/static/css/main.2cce8147.chunk.css",
-    "main.js": "/dionolympiadev.github.io/static/js/main.654fbfc4.chunk.js",
-    "main.js.map": "/dionolympiadev.github.io/static/js/main.654fbfc4.chunk.js.map",
-    "runtime~main.js": "/dionolympiadev.github.io/static/js/runtime~main.67421021.js",
-    "runtime~main.js.map": "/dionolympiadev.github.io/static/js/runtime~main.67421021.js.map",
-    "static/css/2.60a6b8e0.chunk.css": "/dionolympiadev.github.io/static/css/2.60a6b8e0.chunk.css",
-    "static/js/2.94c82bd0.chunk.js": "/dionolympiadev.github.io/static/js/2.94c82bd0.chunk.js",
-    "static/js/2.94c82bd0.chunk.js.map": "/dionolympiadev.github.io/static/js/2.94c82bd0.chunk.js.map",
-    "index.html": "/dionolympiadev.github.io/index.html",
-    "precache-manifest.8c72c83ea356bec6280b8a0f5a483bf5.js": "/dionolympiadev.github.io/precache-manifest.8c72c83ea356bec6280b8a0f5a483bf5.js",
-    "service-worker.js": "/dionolympiadev.github.io/service-worker.js",
-    "static/css/2.60a6b8e0.chunk.css.map": "/dionolympiadev.github.io/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/dionolympiadev.github.io/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/website/static/css/main.2cce8147.chunk.css",
+    "main.js": "/website/static/js/main.5bb1a54b.chunk.js",
+    "main.js.map": "/website/static/js/main.5bb1a54b.chunk.js.map",
+    "runtime~main.js": "/website/static/js/runtime~main.de462641.js",
+    "runtime~main.js.map": "/website/static/js/runtime~main.de462641.js.map",
+    "static/css/2.60a6b8e0.chunk.css": "/website/static/css/2.60a6b8e0.chunk.css",
+    "static/js/2.eda65073.chunk.js": "/website/static/js/2.eda65073.chunk.js",
+    "static/js/2.eda65073.chunk.js.map": "/website/static/js/2.eda65073.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.715dc4445f486d32f1d8bd13854f4ac4.js": "/website/precache-manifest.715dc4445f486d32f1d8bd13854f4ac4.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/2.60a6b8e0.chunk.css.map": "/website/static/css/2.60a6b8e0.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/website/static/css/main.2cce8147.chunk.css.map"
   }
 }
